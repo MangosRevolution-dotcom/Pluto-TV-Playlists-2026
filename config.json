@@ -11,7 +11,7 @@
     "it": "79.137.44.85",
     "mx": "23.192.148.0" 
   },
-  "all": false,
+  "all": true,
   "group": "genre",
   "regionalize": false,
   "excludeGroups": false,
